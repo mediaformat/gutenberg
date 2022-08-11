@@ -3,7 +3,7 @@ name: Storybook GitHub Pages
 on:
     push:
         branches:
-            - trunk
+            - storybook/select-control-multiple
 
 jobs:
     deploy:
